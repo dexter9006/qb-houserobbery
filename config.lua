@@ -72,70 +72,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -154,70 +154,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -236,70 +236,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -318,70 +318,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -400,70 +400,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -482,70 +482,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -564,70 +564,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -646,70 +646,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -728,70 +728,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -810,70 +810,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -892,70 +892,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -974,70 +974,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -1056,70 +1056,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -1138,70 +1138,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -1220,70 +1220,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -1302,70 +1302,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -1384,70 +1384,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -1466,70 +1466,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -1548,70 +1548,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -1630,70 +1630,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -1712,70 +1712,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -1794,70 +1794,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -1876,70 +1876,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -1958,70 +1958,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -2040,70 +2040,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -2122,70 +2122,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -2204,70 +2204,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -2286,70 +2286,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -2368,70 +2368,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -2450,70 +2450,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -2532,70 +2532,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -2614,70 +2614,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -2696,70 +2696,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -2778,70 +2778,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -2860,70 +2860,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -2942,70 +2942,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -3024,70 +3024,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -3106,70 +3106,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -3188,70 +3188,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -3270,70 +3270,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -3352,70 +3352,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -3434,70 +3434,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -3516,70 +3516,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -3598,70 +3598,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -3680,70 +3680,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -3762,70 +3762,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -3844,70 +3844,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -3926,70 +3926,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -4008,70 +4008,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -4090,70 +4090,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -4172,70 +4172,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -4254,70 +4254,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -4336,70 +4336,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -4418,70 +4418,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -4500,70 +4500,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -4582,70 +4582,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -4664,70 +4664,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -4746,70 +4746,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
@@ -4828,70 +4828,70 @@ Config.Houses = {
                 ['coords'] = { ['x'] = 4.15, ['y'] = 7.82, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Bedside Cabinet'
+                ['text'] = 'Fouiller la table de chevet'
             },
             [2] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 5.95, ['y'] = 9.34, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Closet'
+                ['text'] = 'Fouiller le placard'
             },
             [3] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -1.03, ['y'] = 0.78, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [4] = {
                 ['type'] = 'chest',
                 ['coords'] = { ['x'] = 6.904, ['y'] = 3.987, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Chest'
+                ['text'] = 'Fouiller le coffre'
             },
             [5] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 0.933, ['y'] = 1.254, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search Drawers'
+                ['text'] = 'Fouiller les tiroirs'
             },
             [6] = {
                 ['type'] = 'cabin',
                 ['coords'] = { ['x'] = 6.19, ['y'] = 3.35, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Night Stand Cabinet'
+                ['text'] = 'Fouiller armoire de nuit'
             },
             [7] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -2.20, ['y'] = -0.30, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through the kitchen cabinets'
+                ['text'] = 'Fouiller les armoires de cuisine'
             },
             [8] = {
                 ['type'] = 'kitchen',
                 ['coords'] = { ['x'] = -4.35, ['y'] = -0.64, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [9] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.90, ['y'] = 4.42, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
             [10] = {
                 ['type'] = 'livingroom',
                 ['coords'] = { ['x'] = -6.98, ['y'] = 7.91, ['z'] = 1.0 },
                 ['searched'] = false,
                 ['isBusy'] = false,
-                ['text'] = 'Search through shelves'
+                ['text'] = 'Fouiller les étagères'
             },
         }
     },
